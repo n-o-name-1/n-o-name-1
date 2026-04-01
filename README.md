@@ -1,6 +1,4 @@
-<img src="./assets/banner.png" />
 
-<h1 align="center">I'm NO NAME ⚡</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Reverse+Engineer;UX+Focused+Developer;Tool+Builder;Open+Source+Advocate&center=true&width=500&height=50">
